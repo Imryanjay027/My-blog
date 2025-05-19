@@ -13,7 +13,7 @@ const postsData = [
     date: "May 13, 2025",
     category: ["Life","All"],
     content:
-      "In July 2021, I was hired as a web developer by a private company due to my interest in programming. Initially unsure of programming, I found it fascinating and began studying it. Influenced by my brother-in-law, I gradually became interested in its operations.",
+      "In July 2021, I was hired as a web developer by a private company due to my interest in programming. Initially unsure of programming, I found it fascinating and began studying it. My brother-in-law influenced me, and I gradually became interested in its operations. Here, I experienced earning money, which I may give to my mother.",
   },
   {
     id: 3,
